@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @torielyssa
 - 👀 I’m interested in neuroscience & data science.
-- 🌱 I’m currently learning Python & SQL.
-- 💞️ I’m looking to collaborate on getting better at coding!
+- 🌱 I’m currently a fintech Data Analyst who uses mainly SQL and some Python!
 
 <!---
 torielyssa/torielyssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
